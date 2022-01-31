@@ -1,5 +1,7 @@
 A simple python script to create reference libraries of specific loci from whole and partial mitochondrial genomes
 
+---
+
 ## Requirements
 In order to run this script you should first create a conda environment and install `Biopython` as well as `Cutadapt`.
 - If you do not have a version of Anaconda install on your machine you can find the instructions and download [here](https://docs.anaconda.com/anaconda/install/index.html).
